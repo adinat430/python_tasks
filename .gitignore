@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+last_usd_rate.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
